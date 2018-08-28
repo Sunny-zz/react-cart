@@ -8,6 +8,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
+  "homepage": "http://myname.github.io/react-cart",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
