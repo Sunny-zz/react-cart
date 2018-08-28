@@ -8,7 +8,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
-  "homepage": "http://sunny-zz.github.io/react-cart",
+  "homepage": "http://Sunny-zz.github.io/react-cart",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
