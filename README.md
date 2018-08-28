@@ -23,3 +23,10 @@
 - 网上新建仓库将我们的项目传到网上
 - 执行 npm run deploy
 - 最后到 http://Sunny-zz.github.io/react-cart 就可以访问项目了
+
+
+## 将 react 项目部署到 netlify 免费服务器
+- 将我们的项目上传到 github 仓库
+- 到 netlify 网站上点击 New sit from Git，选择 GItHub，点击你要部署的仓库名
+- Branch to Deploy 选择 master 分支，Build command 填写  npm run build ,Publish directory 填写 build/
+- 最后点击 Deploy site ，在弹出的页面等待几分钟就部署成功了。
