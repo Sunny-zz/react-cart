@@ -1,0 +1,1 @@
+{"version":3,"sources":["golbal.css"],"names":[],"mappings":"AAAA,KACE,QAAU,CAEZ,EACE,8BACQ,qBAAuB,CAEjC,EACE,oBAAsB","file":"static/css/main.f715b2e9.css","sourcesContent":["body {\n  margin: 0;\n}\n* {\n  -webkit-box-sizing: border-box;\n          box-sizing: border-box;\n}\na {\n  text-decoration: none;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/golbal.css"],"sourceRoot":""}
