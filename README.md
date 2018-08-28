@@ -30,3 +30,4 @@
 - 到 netlify 网站上点击 New sit from Git，选择 GItHub，点击你要部署的仓库名
 - Branch to Deploy 选择 master 分支，Build command 填写  npm run build ,Publish directory 填写 build/
 - 最后点击 Deploy site ，在弹出的页面等待几分钟就部署成功了。
+**注意该方案 package.json 下不需要添加 homepage**
